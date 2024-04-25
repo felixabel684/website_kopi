@@ -196,7 +196,7 @@ body {
     text-align: center;
     max-width: 30rem;
     margin: auto;
-    font-weight: 100;
+    font-weight: 200;
     line-height: 1.6;
 }
 
@@ -215,10 +215,11 @@ body {
 .menu .row .menu-card img {
     border-radius: 50%;
     width: 50%;
+    margin: auto;
 }
 
 .menu .row .menu-card .menu-card-title {
-    margin-top: 1rem auto 0.5rem;
+    margin: 1rem auto 0.5rem;
 }
 
 /* Contact Section */
